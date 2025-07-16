@@ -2,6 +2,8 @@ import streamlit as st
 
 st.title("Hallo Welt!")
 
+with st.sidebar
+    st.header("Über diese App")
 
 
 st.header("_Streamlit_ is :blue[cool] :sunglasses:")
